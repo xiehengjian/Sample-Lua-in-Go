@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fb3e4c2a-3377-441b-8d68-df39b0c4551f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="GOROOT" path="/usr/local/go" />
+  <component name="ProjectId" id="1kvEYy7x6kFu2bBldcMuCv7uKVk" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="configurable.Global.GOPATH.is.expanded" value="true" />
+    <property name="configurable.Project.GOPATH.is.expanded" value="true" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.sdk.automatically.set" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.goide.configuration.GoLibrariesConfigurableProvider" />
+  </component>
+  <component name="RunManager" selected="Go Build.go build main.go">
+    <configuration name="go build main.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="luago" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/main.go" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build " type="GoApplicationRunConfiguration" factoryName="Go Application" nameIsGenerated="true">
+      <module name="luago" />
+      <working_directory value="$PROJECT_DIR$" />
+      <go_parameters value="-i" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Go Build.go build " />
+      <item itemvalue="Go Build.go build main.go" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build main.go" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fb3e4c2a-3377-441b-8d68-df39b0c4551f" name="Default Changelist" comment="" />
+      <created>1606572715807</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606572715807</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1384" y="213" width="1071" height="700" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1606572839260">
+      <screen x="0" y="23" width="2560" height="1057" />
+    </state>
+    <state x="1384" y="213" width="1071" height="700" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.2560.1057@0.23.2560.1057" timestamp="1606572839260" />
+    <state width="2003" height="358" key="GridCell.Tab.0.bottom" timestamp="1606574287359">
+      <screen x="0" y="23" width="2560" height="1057" />
+    </state>
+    <state width="2003" height="358" key="GridCell.Tab.0.bottom/0.23.2560.1057@0.23.2560.1057" timestamp="1606574287359" />
+    <state width="2003" height="358" key="GridCell.Tab.0.center" timestamp="1606574287358">
+      <screen x="0" y="23" width="2560" height="1057" />
+    </state>
+    <state width="2003" height="358" key="GridCell.Tab.0.center/0.23.2560.1057@0.23.2560.1057" timestamp="1606574287358" />
+    <state width="2003" height="358" key="GridCell.Tab.0.left" timestamp="1606574287357">
+      <screen x="0" y="23" width="2560" height="1057" />
+    </state>
+    <state width="2003" height="358" key="GridCell.Tab.0.left/0.23.2560.1057@0.23.2560.1057" timestamp="1606574287357" />
+    <state width="2003" height="358" key="GridCell.Tab.0.right" timestamp="1606574287359">
+      <screen x="0" y="23" width="2560" height="1057" />
+    </state>
+    <state width="2003" height="358" key="GridCell.Tab.0.right/0.23.2560.1057@0.23.2560.1057" timestamp="1606574287359" />
+    <state width="1238" height="358" key="GridCell.Tab.1.bottom" timestamp="1606574007587">
+      <screen x="0" y="23" width="2560" height="1057" />
+    </state>
+    <state width="1238" height="358" key="GridCell.Tab.1.bottom/0.23.2560.1057@0.23.2560.1057" timestamp="1606574007587" />
+    <state width="1238" height="358" key="GridCell.Tab.1.center" timestamp="1606574007586">
+      <screen x="0" y="23" width="2560" height="1057" />
+    </state>
+    <state width="1238" height="358" key="GridCell.Tab.1.center/0.23.2560.1057@0.23.2560.1057" timestamp="1606574007586" />
+    <state width="1238" height="358" key="GridCell.Tab.1.left" timestamp="1606574007585">
+      <screen x="0" y="23" width="2560" height="1057" />
+    </state>
+    <state width="1238" height="358" key="GridCell.Tab.1.left/0.23.2560.1057@0.23.2560.1057" timestamp="1606574007585" />
+    <state width="1238" height="358" key="GridCell.Tab.1.right" timestamp="1606574007586">
+      <screen x="0" y="23" width="2560" height="1057" />
+    </state>
+    <state width="1238" height="358" key="GridCell.Tab.1.right/0.23.2560.1057@0.23.2560.1057" timestamp="1606574007586" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/main.go</url>
+          <line>17</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
